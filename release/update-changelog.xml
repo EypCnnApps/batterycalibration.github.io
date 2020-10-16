@@ -1,0 +1,13 @@
+<AppUpdater>
+  <update>
+    <latestVersion>3.1</latestVersion>
+    <latestVersionCode>31</latestVersionCode>
+    <url>https://eypcnnapps.github.io/batterycalibration.github.io/</url>
+    <releaseNotes>
+- Minor Bug Fixed
+- Resources Updated
+- New Language: Turkish
+- Tablet Mode Added
+    </releaseNotes>
+  </update>
+</AppUpdater>
